@@ -1,4 +1,4 @@
-![GitHub Logo](/SolutionNOW.svg)
+![GitHub Logo](SolutionNOW.svg)
 Format: ![SolutionNOW Srl](url)
 
 # SolutionNOW
